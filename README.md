@@ -14,6 +14,6 @@
 ![Nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 # Estadísticas 📊
-![100472387 GitHub stats](https://github-readme-stats.vercel.app/api?username=100472387&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=100472387)](https://github.com/100472387/github-readme-stats&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100472387&theme=tokyonight" />
+</p>
